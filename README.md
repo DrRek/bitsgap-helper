@@ -7,6 +7,8 @@ Pacman:
 git clone git@github.com:DrRek/bitsgap-helper.git
 cd bitsgap-helper
 pip install -r requirements.txt
+cp env.sample env
+edit env with your personal data
 
 you could also to this inside a virtualenv
 
