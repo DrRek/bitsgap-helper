@@ -1,3 +1,4 @@
 .env
 venv/
 geckodriver.log
+.selenium-browser-data/
